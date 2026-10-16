@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 11 |
+| 38 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (12)
-- [math](#math) (21)
+- [math](#math) (22)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (4)
 - [strings](#strings) (3)
@@ -123,6 +123,7 @@
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
+| 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2158A | [Suspension](https://codeforces.com/contest/2158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/2158/A%20-%20Suspension/solution.cpp) |
