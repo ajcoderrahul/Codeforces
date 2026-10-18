@@ -5,9 +5,9 @@ int main(){
     cin>>t;
     while (t--)
     {
-        int n;
+        long long n;
         cin>>n;
-        vector<int>a(n);
+        vector<long long>a(n);
         for (int i = 0; i < n; i++)
         {
             cin>>a[i];
@@ -16,6 +16,7 @@ int main(){
             cout<<2<<endl;
             cout<<1 <<" "<<n<<endl;
             cout<<1 <<" "<<n<<endl;
+ 
  
         }else{
             cout<<4<<endl;
