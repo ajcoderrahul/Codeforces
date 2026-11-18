@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [implementation](#implementation) (2)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -61,6 +61,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ajcoderrahul/Codeforces/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ---
